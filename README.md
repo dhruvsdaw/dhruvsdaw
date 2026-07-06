@@ -1,4 +1,4 @@
-## Hi guest 🤤 
+## Hey Friend 🤤 
 
 Hey This is Dhruv, 
 BS Computer Science, Math Minor -UNC
