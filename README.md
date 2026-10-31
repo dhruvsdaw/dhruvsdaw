@@ -4,7 +4,7 @@
 I build and ship end-to-end AI-powered SaaS products, delivering production AI systems on cloud-native architectures while keeping enterprise systems compliant and meeting regulatory requirements. 
 
 **Last Professionally:** 
-At LexisNexis (CaseMap+AI), I co-engineered the platform’s first GenAI summarization engine (60% faster legal document review), shipped 50+ production releases through Azure DevOps and Jenkins pipelines, and co-led evidence validation for SOC 2 Type II audits (2023 and 2024) while contributing to FedRAMP efforts.
+At LexisNexis (CaseMap+AI), I co-engineered the platform’s first GenAI summarization engine (60% faster legal document review), built  multiple features- shipping them across 50+ production releases , and co-led evidence collection/validation for SOC 2 Type II audits efforts (2023, 2024, and 2025), as well as contributing to yearly compliance, and FedRAMP efforts.
 
 **Recent Interests & What I've been Crafting:**
 * 💼 🔭 Currently building a SOC 2 AI agent that automates audit evidence collection: Currenly Common Criteria 8.1 (CC8.1) (LangGraph, RAG, human-in-the-loop)
